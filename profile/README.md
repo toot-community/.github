@@ -1,3 +1,3 @@
-# Toot.community
+# toot.community
 
-We're a generic, free-for-all Mastodon instance hosted in The Netherlands. We're welcoming to all that seek a place of enjoyment online while being excellent to each other.
+A worldwide Mastodon instance from The Netherlands. Run by digital enthusiasts, inviting everyone, everywhere to join us in the #fediverse.
