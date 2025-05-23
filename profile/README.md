@@ -49,10 +49,9 @@ Reported content will be assessed on a balance of probabilities by the moderator
 The moderation team takes a pragmatic approach to every report they receive - if they feel that a problematic post isn't explicitly a breach of any of these rules but is inappropriate for this community, the post will likely be removed. Users who repeatedly post problematic content or are seen by the moderators as a negative, disruptive presence in our community can be removed at the moderation team's discretion, even if those posts or the user did not explicitly violate our rules.
 
 # Server Statistics / Information
-* [FediDB](https://fedidb.org/network/instance?domain=toot.community)
+* [FediDB](https://fedidb.com/servers/toot.community)
 * [Fediverse.Observer](https://fediverse.observer/toot.community)
 * [Uptime status report](https://status.toot.community)
-* [Blog](https://blog.toot.community)
 
 # Contact
 
@@ -61,12 +60,5 @@ Your questions, feedback, and concerns are always welcome. For any instance-rela
 Alternatively, you can write to us via:
 
 Email: [support@toot.community](mailto:support@toot.community)
-
-For any other correspondence, please use our postal address:
-
-toot.community  
-Postbus 465  
-4900 AL Oosterhout NB  
-The Netherlands
 
 Thank you for being part of our community! We're here to help and look forward to hearing from you.
